@@ -8,7 +8,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "Exactspace_NodeJs_Assignment"
+    "url": "Exactspace_NodeJs_Assignment",
+    "start":"nodemon index.js"
   },
   "author": "Atul Saini",
   "license": "ISC",
