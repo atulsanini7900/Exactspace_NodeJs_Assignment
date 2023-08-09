@@ -1,0 +1,15 @@
+{
+  "name": "exactspace_nodejs_assignment",
+  "version": "1.0.0",
+  "description": "Make a webpage with a form to collect a json after submit, we should be able to see the submitted json as an api response",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Exactspace_NodeJs_Assignment"
+  },
+  "author": "Atul Saini",
+  "license": "ISC"
+}
