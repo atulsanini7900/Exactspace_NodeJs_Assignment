@@ -8,7 +8,7 @@ const port=3000;
 app.use(bodyParser.json());
 
 app.use(bodyParser.urlencoded({extended:true}));
-app.use(express.static(path.join(__dirname,'assets')));
+app.use(express.static(path.join(__dirname,'views')));
 
 app.use("/",require("./routes/index"));
 
