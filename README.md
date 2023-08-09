@@ -65,7 +65,7 @@ Exactspace_NodeJs_Assignment/
 
   ## Screenshots
 
-   - First Display Front End
+- First Display Front End
       ![First_Display](./images/first%20display.PNG)
 
 
