@@ -62,3 +62,8 @@ Exactspace_NodeJs_Assignment/
 ├── package-lock.json
 ├── package.json
 ├── README.md
+
+  ## Screenshots
+
+- Display Output
+  ![Output Display](./images/Displayoutput.PNG)
