@@ -57,7 +57,6 @@ Exactspace_NodeJs_Assignment/
 │   ├── style.css
 |   |
 ├── .gitignore
-|   |
 ├── index.js
 ├── package-lock.json
 ├── package.json
