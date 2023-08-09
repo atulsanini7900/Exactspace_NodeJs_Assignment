@@ -3,6 +3,18 @@
 # Display JSON Data as a Form on a Webpage using Node.js
 
 This guide will walk you through the process of creating a Node.js web application that takes JSON input and displays it as a form on a webpage.
+## Tech Stack
+
+**Client:** `HTML`, `CSS`, `JAVASCRIPT`
+
+**Server:** `Node.js, Express.js.
+
+
+## 🔗 Links
+Github Link:- https://github.com/atulsanini7900/Exactspace_NodeJs_Assignment
+
+## 🔗 Live Demo
+Render Link:- https://exactspace-nodejs-assignment-mgfe.onrender.com/
 
 ## Prerequisites
 
