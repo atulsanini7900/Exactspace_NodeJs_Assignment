@@ -4,12 +4,13 @@
   "description": "Make a webpage with a form to collect a json after submit, we should be able to see the submitted json as an api response",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
   },
   "repository": {
     "type": "git",
-    "url": "Exactspace_NodeJs_Assignment",
-    "start":"nodemon index.js"
+    "url": "Exactspace_NodeJs_Assignment"
+    
   },
   "author": "Atul Saini",
   "license": "ISC",
