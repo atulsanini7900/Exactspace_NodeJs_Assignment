@@ -65,5 +65,15 @@ Exactspace_NodeJs_Assignment/
 
   ## Screenshots
 
+   - First Display Front End
+      ![First_Display](./images/first%20display.PNG)
+
+
 - Display Output
   ![Output Display](./images/Displayoutput.PNG)
+
+- Postman Output
+
+  ![Postman_Output](./images/postman%20output.PNG)
+
+ 
