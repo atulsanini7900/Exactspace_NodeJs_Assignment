@@ -21,6 +21,16 @@ This guide will walk you through the process of creating a Node.js web applicati
 
    ```bash
    npm init -y
+
+   ### Step 3: Start the Application
+
+Run the following command to start the server.
+
+``npm start``
+### Step 4: Access the Application
+
+Open your web browser and visit http://localhost:3000 to access the Exactspace_NodeJs_Assignment.
+
  ## Folder Structure
 ```
 Exactspace_NodeJs_Assignment/
